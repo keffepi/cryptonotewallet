@@ -1,3 +1,9 @@
 [submodule "cryptonote"]
 	path = cryptonote
 	url = https://github.com/keffepi/lasercoin
+[submodule "lasercoin"]
+	path = lasercoin
+	url = https://github.com/keffepi/lasercoin
+[submodule "cyptonote"]
+	path = cyptonote
+	url = https://github.com/keffepi/lasercoin
